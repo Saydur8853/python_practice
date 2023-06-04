@@ -67,3 +67,68 @@ for index in best_route:
     print("Address:", locations[index]['address'])
 
 print("\nTotal Distance:", min_distance)
+
+
+"""
+██████  ███████ ███████ ██    ██ ██      ████████
+██   ██ ██      ██      ██    ██ ██         ██
+██████  █████   ███████ ██    ██ ██         ██
+██   ██ ██           ██ ██    ██ ██         ██
+██   ██ ███████ ███████  ██████  ███████    ██
+
+
+"""
+    
+# Best Route:
+
+# Location index: 0
+# Latitude: 23.8728568
+# Longitude: 90.3984184
+# Address: Uttara Branch
+
+# Location index: 3
+# Latitude: 23.8679743
+# Longitude: 90.3840879
+# Address: City Bank Beside Uttara Diagnostic
+
+# Location index: 6
+# Latitude: 23.8629078
+# Longitude: 90.3816318
+# Address: City Bank Shaheed Sarani
+
+# Location index: 1
+# Latitude: 23.8513998
+# Longitude: 90.3944536
+# Address: City Bank Airport
+
+# Location index: 8
+# Latitude: 23.8248938
+# Longitude: 90.3549467
+# Address: City Bank Pallabi
+
+# Location index: 4
+# Latitude: 23.8248293
+# Longitude: 90.3551134
+# Address: City Bank Mirpur 12
+
+# Location index: 9
+# Latitude: 23.813316
+# Longitude: 90.4147498
+# Address: City Bank JFP
+
+# Location index: 5
+# Latitude: 23.827149
+# Longitude: 90.4106238
+# Address: City Bank Le Meridien
+
+# Location index: 2
+# Latitude: 23.8330429
+# Longitude: 90.4092871
+# Address: City Bank Nikunja
+
+# Location index: 7
+# Latitude: 23.8673789
+# Longitude: 90.429412
+# Address: City Bank Narayanganj
+
+# Total Distance: 25.00547775152458
